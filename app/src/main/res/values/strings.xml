@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Semana 2</string>
+    <string name="et_nombre">Nombre Completo</string>
+    <string name="et_fechanacimiento">Fecha de Nacimiento</string>
+    <string name="et_telefono">Teléfono</string>
+    <string name="et_correo">Email</string>
+    <string name="et_descripcion">Descripción</string>
+    <string name="btn_siguiente">Siguiente</string>
+    <string name="tv_titulo">Confirmar Datos</string>
+    <string name="btn_editar">Editar</string>
+</resources>
